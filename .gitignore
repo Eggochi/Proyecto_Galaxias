@@ -11,6 +11,7 @@ wheels/
 
 # Datos y modelos pesados
 data/
+smallGZ1/
 smallGZ1/Imagenes/
 smallGZ1/Images/
 **/Imagenes/
