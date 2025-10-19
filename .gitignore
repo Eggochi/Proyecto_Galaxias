@@ -11,10 +11,14 @@ wheels/
 
 # Datos y modelos pesados
 data/
+smallGZ1/Imagenes/
 smallGZ1/Images/
+**/Imagenes/
+**/imagenes/
 *.pt
 *.pth
 *.ckpt
+*:.Zone.Identifier
 
 # Entorno y configuraciones
 .env
