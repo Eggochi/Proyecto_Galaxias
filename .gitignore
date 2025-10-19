@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Datos y modelos pesados
+data/
+smallGZ1/Images/
+*.pt
+*.pth
+*.ckpt
+
+# Entorno y configuraciones
+.env
